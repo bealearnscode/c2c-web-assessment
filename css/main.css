@@ -1,4 +1,3 @@
-.intro,
-.signup {
-    display: inline-block;
+.intro span {
+    font-weight: bold;
 }
