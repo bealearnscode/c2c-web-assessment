@@ -4,17 +4,18 @@
 
 .languages ul {
     border-bottom: .5px solid #edf0f5;
+    margin-bottom: 0.313em;
     padding-left: 0;
 }
 
 .languages ul li {
     display: inline;
     font-size: 0.750em;
-    text-decoration: none;
+    /*text-decoration: none;*/
 }
 
-.categories {
-    : ;
+.categories ul {
+    padding-top: 0;
 }
 
 .category-div {
@@ -25,4 +26,8 @@
 .category-div>ul li {
     font-size: 0.750em;
     text-decoration: none !important;
+}
+
+.copywrite {
+    font-size: 0.750em;
 }
