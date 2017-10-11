@@ -11,7 +11,7 @@
 .languages ul li {
     display: inline;
     font-size: 0.750em;
-    /*text-decoration: none;*/
+    text-decoration: none;
 }
 
 .categories ul {
