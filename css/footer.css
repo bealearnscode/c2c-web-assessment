@@ -4,13 +4,13 @@
 
 .languages ul {
     border-bottom: .5px solid #edf0f5;
-    margin-bottom: 0.313em;
     padding-left: 0;
 }
 
 .languages ul li {
     display: inline;
     font-size: 0.750em;
+    margin-bottom: 0.375em;
     text-decoration: none;
 }
 
@@ -23,8 +23,12 @@
     margin-top: 2px;
 }
 
-.category-div>ul li {
+.category-div ul li {
     font-size: 0.750em;
+    text-decoration: none !important;
+}
+
+.categories .category-div a {
     text-decoration: none !important;
 }
 
