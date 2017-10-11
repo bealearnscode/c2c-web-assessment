@@ -5,3 +5,7 @@
 .intro span {
     font-weight: bold;
 }
+
+input {
+    margin: 0.350em;
+}
