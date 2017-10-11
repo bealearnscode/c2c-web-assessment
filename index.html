@@ -32,11 +32,7 @@
                             <small id="accountHelp" class="form-text text-muted">Forgot account?</small>
                         </div>
                     </form>
-                    <div class="form-group row">
-                        <div class="offset-sm-2 col-sm-10">
-                            <button type="submit" class="btn btn-primary">Log in</button>
-                        </div>
-                    </div>
+
                 </div>
             </div>
         </div>
@@ -55,21 +51,31 @@
                 <div class="col-md-6 signup">
                     <h2>Sign Up</h2>
                     <h4>It's free and always will be.</h4>
+                    <form class="form-inline">
+                        <label class="sr-only" for="firstNameSignUp">Name</label>
+                        <input type="text" class="form-control mb-2 mr-sm-2 mb-sm-0" id="firstNameSignUp" placeholder="First Name">
+                        <label class="sr-only" for="firstNameSignUp">Name</label>
+                        <input type="text" class="form-control mb-2 mr-sm-2 mb-sm-0" id="lastNameSignUp" placeholder="Last Name">
+                        <label class="sr-only" for="emailSignUp">Name</label>
+                        <input type="text" class="form-control mb-12" id="emailSignUp" placeholder="Mobile number or email">
 
-                    <fieldset class="form-group">
-                        <div class="form-check form-check-inline">
-                            <label class="form-check-label">
+
+
+                        <fieldset class="form-group">
+                            <div class="col-sm-4 form-check form-check-inline">
+                                <label class="form-check-label">
                                 <input type="radio" class="form-check-input" name="optionsRadios" id="female" value="female">
                                 Female
                               </label>
-                        </div>
-                        <div class="form-check form-check-inline">
-                            <label class="form-check-label">
+                            </div>
+                            <div class="form-check form-check-inline">
+                                <label class="form-check-label">
                                 <input type="radio" class="form-check-input" name="optionsRadios" id="male" value="male">
                                 Male
                               </label>
-                        </div>
-                    </fieldset>
+                            </div>
+                        </fieldset>
+                    </form>
                     <div class="terms-of-service">
                         <p>By clicking Create Account, you agree to our <a href="#">Terms</a> and that you have read our <a href="#">Data Policy</a>, including our <a href="#">Cookie Use</a>. You may receive SMS Notifications from Facebook and can opt out
                             at any time.</p>
