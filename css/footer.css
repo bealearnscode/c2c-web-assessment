@@ -1,6 +1,28 @@
-.languages ul li,
-.categories ul li {
+#footer {
+    background-color: #fff;
+}
+
+.languages ul {
+    border-bottom: .5px solid #edf0f5;
+    padding-left: 0;
+}
+
+.languages ul li {
     display: inline;
-    font-size: 0.625em;
+    font-size: 0.750em;
     text-decoration: none;
+}
+
+.categories {
+    : ;
+}
+
+.category-div {
+    display: inline-block;
+    margin-top: 2px;
+}
+
+.category-div>ul li {
+    font-size: 0.750em;
+    text-decoration: none !important;
 }
