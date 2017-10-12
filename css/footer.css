@@ -21,14 +21,15 @@
 .category-div {
     display: inline-block;
     margin-top: 2px;
+    margin-bottom: 5px;
 }
 
-.category-div ul li {
+.category-div p {
     font-size: 0.750em;
-    text-decoration: none !important;
+    line-height: 15px;
 }
 
-.categories .category-div a {
+.category-div a {
     text-decoration: none !important;
 }
 
