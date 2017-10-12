@@ -14,6 +14,10 @@
     text-decoration: none;
 }
 
+td {
+    font-size: 0.750em;
+}
+
 .categories ul {
     padding-top: 0;
 }
