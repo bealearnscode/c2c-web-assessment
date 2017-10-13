@@ -25,6 +25,10 @@ input {
     margin: 0.350em;
 }
 
+#terms-of-service {
+    font-size: 0.750em;
+}
+
 #create-account {
     font-weight: 600;
 }
@@ -32,6 +36,7 @@ input {
 #create-account .btn {
     background-color: #69a74e;
     color: #fff;
+    font-size: 0.750em;
     font-weight: 700;
 }
 
