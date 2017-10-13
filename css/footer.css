@@ -18,23 +18,9 @@ td {
     font-size: 0.750em;
 }
 
-.categories ul {
-    padding-top: 0;
-}
-
-.category-div {
-    display: inline-block;
-    margin-top: 2px;
-    margin-bottom: 5px;
-}
-
-.category-div p {
-    font-size: 0.750em;
-    line-height: 15px;
-}
-
-.category-div a {
-    text-decoration: none !important;
+.table-borderless tr,
+.table-borderless td {
+    border: 0;
 }
 
 .copywrite {
