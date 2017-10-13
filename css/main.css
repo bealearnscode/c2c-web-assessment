@@ -1,3 +1,11 @@
+#intro p,
+#birthday-help,
+#terms-of-service,
+#create-account .btn,
+#create-a-page p {
+    font-size: 0.750em;
+}
+
 #main {
     background-color: #edf0f5;
 }
@@ -25,18 +33,9 @@ input {
     margin: 0.350em;
 }
 
-#terms-of-service {
-    font-size: 0.750em;
-}
-
-#create-account {
-    font-weight: 600;
-}
-
 #create-account .btn {
     background-color: #69a74e;
     color: #fff;
-    font-size: 0.750em;
     font-weight: 700;
 }
 
