@@ -25,9 +25,14 @@ input {
     margin: 0.350em;
 }
 
-#create-account,
-#create-a-page a {
+#create-account {
     font-weight: 600;
+}
+
+#create-account .btn {
+    background-color: #69a74e;
+    color: #fff;
+    font-weight: 700;
 }
 
 #create-a-page {
