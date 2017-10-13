@@ -4,13 +4,12 @@
 
 .languages ul {
     border-bottom: .5px solid #edf0f5;
-    padding-left: 0;
 }
 
 .languages ul li {
     display: inline;
     font-size: 0.750em;
-    margin-bottom: 0.375em;
+    padding-left: 0.500em;
     text-decoration: none;
 }
 
