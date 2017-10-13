@@ -2,19 +2,19 @@
     background-color: #edf0f5;
 }
 
-.intro h2 {
+#intro h2 {
     padding: 42px 0 24px;
     font-size: 28px;
     line-height: 36px;
 }
 
-.intro i {
+#intro i {
     color: #adbad4;
     font-size: 2.225em;
     padding-right: 8px;
 }
 
-.intro span {
+#intro span {
     color: #333;
     font-size: 1.063em !important;
     font-weight: bold;
@@ -23,4 +23,13 @@
 
 input {
     margin: 0.350em;
+}
+
+#create-account,
+#create-a-page a {
+    font-weight: 600;
+}
+
+#create-a-page {
+    border-top: 5px solid #edf0f5;
 }
