@@ -1,3 +1,8 @@
+.copywrite,
+.languages ul li {
+    font-size: 0.750em;
+}
+
 #footer {
     background-color: #fff;
 }
@@ -8,7 +13,6 @@
 
 .languages ul li {
     display: inline;
-    font-size: 0.750em;
     padding-left: 0.500em;
     text-decoration: none;
 }
@@ -20,8 +24,4 @@ td {
 .table-borderless tr,
 .table-borderless td {
     border: 0;
-}
-
-.copywrite {
-    font-size: 0.750em;
 }
